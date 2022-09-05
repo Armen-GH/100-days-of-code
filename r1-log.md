@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - [HADDAD Armen]
 
-The log of my #100DaysOfCode challenge. Started on [March 23, 2022].
+The log of my #100DaysOfCode challenge. Started on Sept 5, 2022].
 
 ## Log
 
